@@ -1,0 +1,6 @@
+framework module Pods_AppStoreJsonAPIS {
+  umbrella header "Pods-AppStoreJsonAPIS-umbrella.h"
+
+  export *
+  module * { export * }
+}
